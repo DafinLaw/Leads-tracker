@@ -62,6 +62,8 @@ Since this extension is not published on the Chrome Web Store, it must be loaded
 5. Select the project folder (the one containing manifest.json)
 6. The extension will now appear in your extensions list and be ready to use
 
+---
+
 ## Usage
 
 - Click Save Tab to store the current active tab URL
@@ -72,6 +74,7 @@ Since this extension is not published on the Chrome Web Store, it must be loaded
 
 - Click any saved link to open it in a new tab
 
+---
 
 ## Future Improvements
 
@@ -82,6 +85,8 @@ Since this extension is not published on the Chrome Web Store, it must be loaded
 - Validation for input URLs
 
 - Sync storage option
+
+---
 
 ## Notes on Updates
 
@@ -94,6 +99,10 @@ Automatic updates would require:
 
 This is planned for a future iteration
 
+---
+
 ## License
 
 This project is for learning and demonstration purposes.
+
+---
